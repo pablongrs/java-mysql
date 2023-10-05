@@ -1,4 +1,7 @@
-## Ingenieria de software
+### Ingenieria de software 2
+
+#### Sistema de gestion de turnos
+
 
 En este repositorio se encuentran archivos para el sistema de gestion de turnos.
 
