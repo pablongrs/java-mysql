@@ -8,18 +8,4 @@ En este repositorio se encuentran archivos para el sistema de gestion de turnos.
 -El archivo "registro" cuenta con una instancia de la conexion para validar de que se haya hecho correctamente.
 
 
-Dependencias mysql- maven:
-
-
-Van colocadas dentro del proyecto en el archivo: pom
-
-<dependencies>
-  
-<dependency>
-    <groupId>mysql</groupId>
-    <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.33</version>
-</dependency>
-  
-</dependencies>
-
+-El archivo "pom" tiene las dependencias de maven para la conexion
